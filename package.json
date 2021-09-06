@@ -1,0 +1,17 @@
+{
+  "name": "test-case-yt-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@maxim_mazurok/gapi.client.youtube": "^3.0.20210903"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
+}

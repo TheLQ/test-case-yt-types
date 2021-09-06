@@ -1,0 +1,1 @@
+const request = gapi.client.youtube.subscriptions.list({'part': 'snippet', 'mine': 'true'});
